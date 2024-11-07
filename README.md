@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No.5  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 2/11/24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,24 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+### X-axis
+![Screenshot 2024-10-26 114242](https://github.com/user-attachments/assets/f99c817f-ab2c-4b59-a374-ae99624a65bb)
 
-### Name: 
-### Register Number:
+### y-axis
+![Screenshot 2024-10-26 114300](https://github.com/user-attachments/assets/574a8bd9-cc3f-44b8-9239-1220718832fd)
+
+### z-axis
+![Screenshot 2024-10-26 114312](https://github.com/user-attachments/assets/0383e7e9-e21e-49b2-a404-9fb46a3b09b2)
+
+### Complete Assembly
+![Screenshot 2024-10-26 114325](https://github.com/user-attachments/assets/391ccc47-72a1-497d-8e20-feb4ea4ee01f)
+
+### Axes 
+![Screenshot 2024-10-26 113741](https://github.com/user-attachments/assets/93c99fed-797a-4d9f-99cb-3b5ae47cfba6)
+
+
+### Name: Manoj kumar S
+### Register Number: 212223240082
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
